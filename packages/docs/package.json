@@ -26,10 +26,11 @@
     "storybook": "^7.4.0"
   },
   "dependencies": {
-    "@ignite-ui/ts-config": "*",
     "@ignite-ui/eslint-config": "*",
     "@ignite-ui/react": "*",
     "@ignite-ui/tokens": "*",
+    "@ignite-ui/ts-config": "*",
+    "phosphor-react": "^1.4.1",
     "polished": "^4.2.2"
   }
 }
