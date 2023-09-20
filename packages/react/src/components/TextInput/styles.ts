@@ -1,4 +1,3 @@
-import { TextInput } from '.'
 import { styled } from '../../styles'
 
 export const TextInputContainer = styled('div', {
@@ -48,5 +47,3 @@ export const Input = styled('input', {
     color: '$gray400',
   },
 })
-
-TextInput.displayName = 'TextInput'
