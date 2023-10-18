@@ -1,5 +1,11 @@
 # @patricfonseca-ignite-ui/react
 
+## 3.0.0
+
+### Major Changes
+
+- update textinputContainer to accept size property
+
 ## 2.0.1
 
 ### Patch Changes
