@@ -1,5 +1,11 @@
 # @patricfonseca-ignite-ui/react
 
+## 4.0.0
+
+### Major Changes
+
+- update name of import ignite-ui/tokens on react/styles
+
 ## 3.0.0
 
 ### Major Changes
