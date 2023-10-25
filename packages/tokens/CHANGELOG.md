@@ -1,5 +1,11 @@
 # @patricfonseca-ignite-ui/tokens
 
+## 5.0.0
+
+### Major Changes
+
+- remove test color from tokens
+
 ## 4.0.0
 
 ### Major Changes
